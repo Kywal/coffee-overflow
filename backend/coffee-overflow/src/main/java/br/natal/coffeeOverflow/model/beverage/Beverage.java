@@ -1,4 +1,4 @@
-package br.natal.coffeeOverflow.model;
+package br.natal.coffeeOverflow.model.beverage;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
